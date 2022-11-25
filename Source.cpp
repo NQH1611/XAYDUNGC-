@@ -1,3 +1,3 @@
-float phepNhan(int a; int b){
+float phepNhan(float a; float b){
 	return a*b;
 }
