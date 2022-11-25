@@ -1,3 +1,3 @@
-int tru(int a; int b){
+float tru(float a; float b){
 	return a-b;
 }
